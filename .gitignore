@@ -1,0 +1,29 @@
+.julia/
+artifacts/
+deps/
+.julia_history
+*.jl.cov
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Python caches (if present)
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build / temporary
+build/
+tmp/
