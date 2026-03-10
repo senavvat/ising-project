@@ -1,2 +1,11 @@
+name = "IsingMC"
+uuid = "c0a1d2e3-f4b5-6789-abcd-0123456789ab"
+version = "0.1.0"
+authors = ["sena <sena@example.com>"]
+
 [deps]
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+[compat]
+BenchmarkTools = "1.6.3"
